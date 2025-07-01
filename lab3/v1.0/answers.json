@@ -1,0 +1,37 @@
+{
+  "Science": [
+    "Einstein's theory stating that space and time are relative and linked in a four-dimensional spacetime.",
+    "A phenomenon where particles remain connected so that the state of one instantly influences the state of another, regardless of distance.",
+    "Vaccines introduce a harmless antigen to train the immune system to recognize and fight pathogens.",
+    "Greenhouse gas emissions from human activities trap heat in the atmosphere, leading to global warming.",
+    "Plants convert light energy, CO₂, and water into glucose and oxygen using chlorophyll."
+  ],
+  "Literature": [
+    "Major themes include totalitarianism, surveillance, and individual freedom vs. oppression.",
+    "Hamlet is a conflicted prince torn between revenge, morality, and existential doubt.",
+    "A genre blending realistic narrative with fantastical elements as if they are ordinary.",
+    "The green light represents Gatsby’s hopes, while the valley of ashes shows moral decay.",
+    "Tone is the author’s attitude; mood is the emotional feeling experienced by the reader."
+  ],
+  "History": [
+    "The assassination of Archduke Franz Ferdinand triggered a web of alliances and war declarations.",
+    "Economic troubles, overexpansion, and barbarian invasions weakened Rome until collapse.",
+    "A Mongol emperor who founded the largest contiguous empire in history by conquest.",
+    "An ancient trade network connecting East Asia with the Mediterranean for silk, spices, and ideas.",
+    "A rapid shift to mechanized manufacturing in 18th‑19th century Europe and North America."
+  ],
+  "Technology": [
+    "A subset of AI where algorithms improve performance by learning from data rather than explicit programming.",
+    "A decentralized ledger where transactions are recorded in immutable blocks linked by cryptography.",
+    "Computational layers of interconnected nodes inspired by biological neurons to process data.",
+    "A distributed computing paradigm that brings data storage and processing closer to data sources.",
+    "The fifth-generation wireless network, offering higher speeds, lower latency, and greater capacity."
+  ],
+  "Art": [
+    "An art movement focused on capturing light and natural forms with loose brushwork and vivid colors.",
+    "A Dutch Post‑Impressionist painter known for bold colors and emotional honesty.",
+    "Use of vanishing points and horizon lines to create the illusion of depth on flat surfaces.",
+    "Post‑WWII movement emphasizing spontaneous, automatic, or subconscious creation.",
+    "A body of practical guidelines for mixing colors to achieve harmony and contrast."
+  ]
+}

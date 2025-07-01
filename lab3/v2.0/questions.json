@@ -1,0 +1,25 @@
+{"question_id": 1, "category": "science", "turns": ["What is the theory of relativity? Explain briefly."]}
+{"question_id": 2, "category": "science", "turns": ["Which of the following is a consequence of the theory of relativity?", "A. Time dilation", "B. Quantum entanglement", "C. Photosynthesis", "D. Plate tectonics", "Correct Answer: A"]}
+{"question_id": 3, "category": "science", "turns": ["How do vaccines work? Explain briefly."]}
+{"question_id": 4, "category": "science", "turns": ["Which of the following contributes to climate change?", "A. Deforestation", "B. Renewable energy", "C. Recycling", "D. Planting trees", "Correct Answer: A"]}
+{"question_id": 5, "category": "science", "turns": ["Which process is described as converting sunlight into chemical energy?", "A. Photosynthesis", "B. Respiration", "C. Fermentation", "D. Combustion", "Correct Answer: A"]}
+{"question_id": 6, "category": "literature", "turns": ["What are the themes of '1984' by George Orwell? Explain briefly."]}
+{"question_id": 7, "category": "literature", "turns": ["Which of the following is a theme in '1984'?", "A. Totalitarianism", "B. Magical realism", "C. Romanticism", "D. Industrialization", "Correct Answer: A"]}
+{"question_id": 8, "category": "literature", "turns": ["What is magical realism? Explain briefly."]}
+{"question_id": 9, "category": "literature", "turns": ["Which character symbolizes the American Dream in 'The Great Gatsby'?", "A. Jay Gatsby", "B. Daisy Buchanan", "C. Tom Buchanan", "D. Nick Carraway", "Correct Answer: A"]}
+{"question_id": 10, "category": "literature", "turns": ["How does tone differ from mood? Explain briefly."]}
+{"question_id": 11, "category": "history", "turns": ["What started World War I? Explain briefly."]}
+{"question_id": 12, "category": "history", "turns": ["Which event is considered the immediate cause of World War I?", "A. Assassination of Archduke Franz Ferdinand", "B. Fall of the Roman Empire", "C. Signing of the Treaty of Versailles", "D. Industrial Revolution", "Correct Answer: A"]}
+{"question_id": 13, "category": "history", "turns": ["Who was Genghis Khan? Explain briefly."]}
+{"question_id": 14, "category": "history", "turns": ["Which of the following was a key purpose of the Silk Road?", "A. Trade", "B. Military conquest", "C. Religious conversion", "D. Colonization", "Correct Answer: A"]}
+{"question_id": 15, "category": "history", "turns": ["Which of the following innovations is associated with the Industrial Revolution?", "A. Steam engine", "B. Printing press", "C. Compass", "D. Telescope", "Correct Answer: A"]}
+{"question_id": 16, "category": "technology", "turns": ["What is machine learning? Explain briefly."]}
+{"question_id": 17, "category": "technology", "turns": ["Which of the following is a type of machine learning?", "A. Supervised learning", "B. Blockchain", "C. Neural networks", "D. Edge computing", "Correct Answer: A"]}
+{"question_id": 18, "category": "technology", "turns": ["How do neural networks work? Explain briefly."]}
+{"question_id": 19, "category": "technology", "turns": ["Which of the following is a feature of 5G networks?", "A. High latency", "B. Low latency", "C. Limited bandwidth", "D. Slow speed", "Correct Answer: B"]}
+{"question_id": 20, "category": "technology", "turns": ["Which of the following best describes blockchain?", "A. Decentralized ledger", "B. Centralized database", "C. Cloud storage", "D. Neural network", "Correct Answer: A"]}
+{"question_id": 21, "category": "art", "turns": ["What defines Impressionism? Explain briefly."]}
+{"question_id": 22, "category": "art", "turns": ["Which of the following is a characteristic of Impressionism?", "A. Use of light and color", "B. Abstract forms", "C. Geometric shapes", "D. Dark tones", "Correct Answer: A"]}
+{"question_id": 23, "category": "art", "turns": ["Explain the use of perspective in Renaissance art. Explain briefly."]}
+{"question_id": 24, "category": "art", "turns": ["Which artist is associated with abstract expressionism?", "A. Jackson Pollock", "B. Vincent van Gogh", "C. Leonardo da Vinci", "D. Claude Monet", "Correct Answer: A"]}
+{"question_id": 25, "category": "art", "turns": ["Discuss the role of color theory. Explain briefly."]}

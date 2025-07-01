@@ -1,0 +1,25 @@
+{"question_id": 1, "category": "science", "turns": ["What is the theory of relativity? Explain briefly."]}
+{"question_id": 2, "category": "science", "turns": ["Explain quantum entanglement. Explain briefly."]}
+{"question_id": 3, "category": "science", "turns": ["How do vaccines work? Explain briefly."]}
+{"question_id": 4, "category": "science", "turns": ["What causes climate change? Explain briefly."]}
+{"question_id": 5, "category": "science", "turns": ["Describe photosynthesis. Explain briefly."]}
+{"question_id": 6, "category": "literature", "turns": ["What are the themes of '1984' by George Orwell? Explain briefly."]}
+{"question_id": 7, "category": "literature", "turns": ["Analyze the character Hamlet. Explain briefly."]}
+{"question_id": 8, "category": "literature", "turns": ["What is magical realism? Explain briefly."]}
+{"question_id": 9, "category": "literature", "turns": ["Discuss the symbolism in 'The Great Gatsby'. Explain briefly."]}
+{"question_id": 10, "category": "literature", "turns": ["How does tone differ from mood? Explain briefly."]}
+{"question_id": 11, "category": "history", "turns": ["What started World War I? Explain briefly."]}
+{"question_id": 12, "category": "history", "turns": ["Outline the fall of the Roman Empire. Explain briefly."]}
+{"question_id": 13, "category": "history", "turns": ["Who was Genghis Khan? Explain briefly."]}
+{"question_id": 14, "category": "history", "turns": ["What was the Silk Road? Explain briefly."]}
+{"question_id": 15, "category": "history", "turns": ["Describe the Industrial Revolution. Explain briefly."]}
+{"question_id": 16, "category": "technology", "turns": ["What is machine learning? Explain briefly."]}
+{"question_id": 17, "category": "technology", "turns": ["Explain blockchain technology. Explain briefly."]}
+{"question_id": 18, "category": "technology", "turns": ["How do neural networks work? Explain briefly."]}
+{"question_id": 19, "category": "technology", "turns": ["What is edge computing? Explain briefly."]}
+{"question_id": 20, "category": "technology", "turns": ["Describe 5G networks. Explain briefly."]}
+{"question_id": 21, "category": "art", "turns": ["What defines Impressionism? Explain briefly."]}
+{"question_id": 22, "category": "art", "turns": ["Who was Vincent van Gogh? Explain briefly."]}
+{"question_id": 23, "category": "art", "turns": ["Explain the use of perspective in Renaissance art. Explain briefly."]}
+{"question_id": 24, "category": "art", "turns": ["What is abstract expressionism? Explain briefly."]}
+{"question_id": 25, "category": "art", "turns": ["Discuss the role of color theory. Explain briefly."]}

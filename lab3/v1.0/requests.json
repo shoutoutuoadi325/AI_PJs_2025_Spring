@@ -1,0 +1,37 @@
+{
+  "Science": [
+    "What is the theory of relativity?",
+    "Explain quantum entanglement.",
+    "How do vaccines work?",
+    "What causes climate change?",
+    "Describe photosynthesis."
+  ],
+  "Literature": [
+    "What are the themes of '1984' by George Orwell?",
+    "Analyze the character Hamlet.",
+    "What is magical realism?",
+    "Discuss the symbolism in 'The Great Gatsby'.",
+    "How does tone differ from mood?"
+  ],
+  "History": [
+    "What started World War I?",
+    "Outline the fall of the Roman Empire.",
+    "Who was Genghis Khan?",
+    "What was the Silk Road?",
+    "Describe the Industrial Revolution."
+  ],
+  "Technology": [
+    "What is machine learning?",
+    "Explain blockchain technology.",
+    "How do neural networks work?",
+    "What is edge computing?",
+    "Describe 5G networks."
+  ],
+  "Art": [
+    "What defines Impressionism?",
+    "Who was Vincent van Gogh?",
+    "Explain the use of perspective in Renaissance art.",
+    "What is abstract expressionism?",
+    "Discuss the role of color theory."
+  ]
+}
